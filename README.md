@@ -19,9 +19,28 @@ _OBJETIVOS ESPECÍFICOS:_
 
 2.MARCO TEÓRICO:
 
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/marco%20teorico%202.png)
+
+
+
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/marco%20teorico%205.png)
 
 
 3.DIAGRAMAS:
+
+
+
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/diagrama2.png)
+
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/diagrama2.1.png)
+
+
+
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/diagrama5.png)
+
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/diagrama5.1.png)
+
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/diagrama5.2.png)
 
 
 4.XPLICACIÓN:
