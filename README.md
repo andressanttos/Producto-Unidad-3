@@ -19,10 +19,6 @@ _OBJETIVOS ESPECÍFICOS:_
 
 •Identificar términos relevantes utilizados en el capítulo para, para una mejor compresión y análisis
 
-
-
- 
-
 2.MARCO TEÓRICO:
 
  _INTRODUCCIÓN A LAS MAQUINAS TRIFASICAS:_
