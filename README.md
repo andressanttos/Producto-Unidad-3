@@ -23,6 +23,12 @@ _OBJETIVOS ESPECÍFICOS:_
 
 2.MARCO TEÓRICO:
 
+ _INTRODUCCIÓN A LAS MAQUINAS TRIFASICAS:_
+ 
+ ![](img/marco1.jpg)
+
+
+
 ![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/marco%20teorico%202.png)
 
 
