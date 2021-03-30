@@ -27,7 +27,7 @@ _OBJETIVOS ESPECÍFICOS:_
  
  ![](img/marco1.jpg)
 
-_GENERADORES EN APLICACICONES DE POTENCIA:_
+_GENERADORES EN APLICACIONES DE POTENCIA:_
 
 ![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/marco%20teorico%202.png)
 
