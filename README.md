@@ -27,11 +27,17 @@ _OBJETIVOS ESPECÍFICOS:_
  
  ![](img/marco1.jpg)
 
-
+_GENERADORES EN APLICACICONES DE POTENCIA:_
 
 ![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/marco%20teorico%202.png)
 
+_TIPOS DE GENERADORES TRIFASICOS:_
 
+ ![](img/marco3.jpg)
+ 
+ _ANÁLISIS DE FUENTE Y CARGA TRIFÁSICAS:_
+
+_POTENCIA TRIFASICA:_
 
 ![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/marco%20teorico%205.png)
 
