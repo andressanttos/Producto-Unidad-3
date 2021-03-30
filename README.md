@@ -82,8 +82,4 @@ _POTENCIA TRIFASICA:_
 
 •	Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
 
-• 
-
-• 
-
-• 
+• Julián, C. (2019, 27 marzo). ▷ Intensidad de Corriente Eléctrica 【 Ejercicios Resueltos 】 - Fisimat. Fisimat | Blog de Física y Matemáticas. https://www.fisimat.com.mx/intensidad-de-corriente-electrica/
