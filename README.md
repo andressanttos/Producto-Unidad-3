@@ -59,7 +59,11 @@ _POTENCIA TRIFASICA:_
 ![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/diagrama5.2.png)
 
 
-4.XPLICACIÓN:
+4.EXPLICACIÓN:
+
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/ejercicio1.png)
+
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/ejercicio2.png)
 
 
 5.CONCLUSIONES
