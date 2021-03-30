@@ -13,6 +13,10 @@ _OBJETIVOS ESPECÍFICOS:_
 
 •	Analizar mediciones de potencia en sistemas de potencia.
 
+•Realizar un análisis de sistemas trifásicos identificando los diferentes tipos para su resolución
+
+•Identificar términos relevantes utilizados en el capítulo para, para una mejor compresión y análisis
+
 
 
  
