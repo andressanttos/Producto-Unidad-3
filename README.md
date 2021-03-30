@@ -1,11 +1,9 @@
 # Producto Unidad 3
 1.OBJETIVOS
 
-_OBJETIVOS GENERALES:_ 
+_OBJETIVO GENERAL:_ 
 
 • Comprender el concepto y funcionamiento de un generador básico de formas de onda sinusoidales trifásicas. Abordar las ventajas de los sistemas trifásicos en aplicaciones de potencia, y verificar varios tipos de conexiones trifásicas y de medición de potencia haciendo uso de teoria previamente desarrollada de manera practica, y valga la redundancia, escrita. 
-
-• 
 
 _OBJETIVOS ESPECÍFICOS:_
 
