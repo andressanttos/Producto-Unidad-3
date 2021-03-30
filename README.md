@@ -37,7 +37,7 @@ _TIPOS DE GENERADORES TRIFASICOS:_
  
  _ANÁLISIS DE FUENTE Y CARGA TRIFÁSICAS:_
  
- !https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/marco%20teorico%204.png)[](
+![](https://github.com/andressanttos/Producto-Unidad-3/blob/main/img/marco%20teorico%204.png)
  
 _POTENCIA TRIFASICA:_
 
