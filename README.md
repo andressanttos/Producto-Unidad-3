@@ -68,6 +68,10 @@ _POTENCIA TRIFASICA:_
 
 •	La potencia proporcionada por un sistema monofásico cae tres veces por ciclo. La potencia proporcionada por un sistema trifásico nunca cae a cero por lo    que la potencia enviada a la carga es siempre la misma.
 
+•Los motores y generadores trabajan mejor a potencia constante que a potencia fluctuante (monofásicos), ya que ésta causa vibraciones.
+
+•Para transmitir la misma potencia a un carga, un sistema trifásico de distribución tiene la mitad de pérdidas que uno monofásico
+
 
 
 6. BIBLIOGRAFÍA
