@@ -1,13 +1,17 @@
 # Producto Unidad 3
 1.OBJETIVOS
 
-_OBJETIVOS GENERALES__
+_OBJETIVOS GENERALES:_ 
 
-• 
+• Comprender el concepto y funcionamiento de un generador básico de formas de onda sinusoidales trifásicas. Abordar las ventajas de los sistemas trifásicos en aplicaciones de potencia, y verificar varios tipos de conexiones trifásicas y de medición de potencia haciendo uso de teoria previamente desarrollada de manera practica, y valga la redundancia, escrita. 
 
 • 
 
 _OBJETIVOS ESPECÍFICOS:_
+
+•	Analizar un generador trifásico básico
+
+•	Analizar un motor de inducción trifásico básico
 
 •	Analizar las ventajas de los generadores trifásicos en aplicaciones de potencia.
 
@@ -73,6 +77,12 @@ _POTENCIA TRIFASICA:_
 •	En un sistema trifásico equilibrado los conductores necesitan ser el 75% del tamaño   que necesitarían para un sistema monofásico con la misma potencia en VA por lo que   esto ayuda a disminuir los costos y por lo tanto a justificar el tercer cable requerido. 
 
 •	La potencia proporcionada por un sistema monofásico cae tres veces por ciclo. La potencia proporcionada por un sistema trifásico nunca cae a cero por lo    que la potencia enviada a la carga es siempre la misma.
+
+•	En el generador conectado en Y, dos magnitudes de voltaje están disponibles en las terminales del sistema de cuatro hilos: el voltaje de fase y el voltaje de línea. Asimismo, en el generador conectado en Y, la corriente de línea es igual a la corriente de fase
+
+•	Un generador trifásico simple se compone de tres espiras conductoras separadas por 120°.
+
+•	Tres ventajas de los sistemas trifásicos sobre los monofásicos son una sección transversal de cobre más pequeña para la misma potencia suministrada a la carga, una potencia constante suministrada a la carga, y un campo magnético rotatorio constante.
 
 •Los motores y generadores trabajan mejor a potencia constante que a potencia fluctuante (monofásicos), ya que ésta causa vibraciones.
 
